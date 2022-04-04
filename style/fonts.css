@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'DMB-700';
+    src: url('../fonts/DM/DMB-700.ttf');    
+}
+
+@font-face {
+    font-family: 'DMR-400';
+    src: url('../fonts/DM/DMR-400.ttf');    
+}
+
+@font-face {
+    font-family: 'MR-400';
+    src: url('../fonts/Mulish/MR-400.ttf');    
+}
+
+@font-face {
+    font-family: 'PTB-700';
+    src: url('../fonts/PT/PTB-700.ttf');    
+}
+
+@font-face {
+    font-family: 'PT-Italic';
+    src: url('../fonts/PT/PT-Italic.ttf');    
+}
+
+@font-face {
+    font-family: 'PTR-400';
+    src: url('../fonts/PT/PTR-400.ttf');    
+}
